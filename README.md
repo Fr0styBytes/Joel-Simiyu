@@ -1,17 +1,16 @@
 # Hello, I'm Joel
 <a href="https://www.linkedin.com/in/joel-simiyu/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Result-driven cybersecurity professional with a proven track record of safeguarding sensitive data, implementing security measures and mitigating potential risks. I am a dedicated and proactive professional eager to contribute to the protection of digital assets 
+and infrastructure. With a strong foundation in cybersecurity principles, I am committed to enhancing the security posture of organizations through my growing expertise in securing endpoints, network systems, cloud environments, Incident response and Identity and Access Management. I am a continuous learner who is passionate about staying up-to-date with the latest security trends and best practices.
+
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My objectives of posting cybersecurity hands-on labs and project repositories on GitHub, include sharing knowledge, demonstrating skills, collaborating with peers, contributing to open source, building a portfolio, documenting work and promoting continuous learning.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
